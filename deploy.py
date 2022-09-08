@@ -1,6 +1,5 @@
-t
-ying a pytho web application
-echo "Hello World" 
+#echo "Hello World" 
 #= shell scripts
-python ('Hello world') 
+#python ('Hello world') 
 #= pytho script
+print ('hello world')
